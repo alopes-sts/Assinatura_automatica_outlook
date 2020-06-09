@@ -5,6 +5,7 @@ No registro do Windows deve-se incluir as 2 chaves abaixo:
 
 Local: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\MailSettings    
 Chave: Assinatura_Empresa
+
 tipo: REG_SSZ
 Chave: ReplySignature
 tipo: REG_SSZ
